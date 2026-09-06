@@ -2,7 +2,7 @@
 
 
 
-Estudante de **Sistemas de Informação na ESPM**, com foco em **desenvolvimento de software. Tenho experiência principalmente com Node.js e Express na criação de aplicações e APIs REST, além de desenvolvimento Front-end com JavaScript, TypeScript, React, Bootstrap. Também possuo conhecimentos em Java e Spring Boot, trabalhando com JPA/Hibernate e Swagger, além de MySQL e PostgreSQL. Utilizo Git, GitHub, Docker e Docker Compose para versionamento e organização dos projetos
+Estudante de **Sistemas de Informação na ESPM**, com foco em **desenvolvimento de software**. Tenho experiência principalmente com Node.js e Express na criação de aplicações e APIs REST, além de desenvolvimento Front-end com JavaScript, TypeScript, React, Bootstrap. Também possuo conhecimentos em Java e Spring Boot, trabalhando com JPA/Hibernate e Swagger, além de MySQL e PostgreSQL. Utilizo Git, GitHub, Docker e Docker Compose para versionamento e organização dos projetos
 
 
 ## 🛠️ Tecnologias
